@@ -1,0 +1,15 @@
+C:\Users\sundi\source\repos\Computer_Fundamental-Exercise\Exercise-Solutions\bin\Debug\net6.0\Exercise-Solutions.exe
+C:\Users\sundi\source\repos\Computer_Fundamental-Exercise\Exercise-Solutions\bin\Debug\net6.0\Exercise-Solutions.deps.json
+C:\Users\sundi\source\repos\Computer_Fundamental-Exercise\Exercise-Solutions\bin\Debug\net6.0\Exercise-Solutions.runtimeconfig.json
+C:\Users\sundi\source\repos\Computer_Fundamental-Exercise\Exercise-Solutions\bin\Debug\net6.0\Exercise-Solutions.dll
+C:\Users\sundi\source\repos\Computer_Fundamental-Exercise\Exercise-Solutions\bin\Debug\net6.0\Exercise-Solutions.pdb
+C:\Users\sundi\source\repos\Computer_Fundamental-Exercise\Exercise-Solutions\obj\Debug\net6.0\Exercise-Solutions.csproj.AssemblyReference.cache
+C:\Users\sundi\source\repos\Computer_Fundamental-Exercise\Exercise-Solutions\obj\Debug\net6.0\Exercise-Solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sundi\source\repos\Computer_Fundamental-Exercise\Exercise-Solutions\obj\Debug\net6.0\Exercise-Solutions.AssemblyInfoInputs.cache
+C:\Users\sundi\source\repos\Computer_Fundamental-Exercise\Exercise-Solutions\obj\Debug\net6.0\Exercise-Solutions.AssemblyInfo.cs
+C:\Users\sundi\source\repos\Computer_Fundamental-Exercise\Exercise-Solutions\obj\Debug\net6.0\Exercise-Solutions.csproj.CoreCompileInputs.cache
+C:\Users\sundi\source\repos\Computer_Fundamental-Exercise\Exercise-Solutions\obj\Debug\net6.0\Exercise-Solutions.dll
+C:\Users\sundi\source\repos\Computer_Fundamental-Exercise\Exercise-Solutions\obj\Debug\net6.0\refint\Exercise-Solutions.dll
+C:\Users\sundi\source\repos\Computer_Fundamental-Exercise\Exercise-Solutions\obj\Debug\net6.0\Exercise-Solutions.pdb
+C:\Users\sundi\source\repos\Computer_Fundamental-Exercise\Exercise-Solutions\obj\Debug\net6.0\Exercise-Solutions.genruntimeconfig.cache
+C:\Users\sundi\source\repos\Computer_Fundamental-Exercise\Exercise-Solutions\obj\Debug\net6.0\ref\Exercise-Solutions.dll
